@@ -43,7 +43,7 @@ struct ContentView: View {
                     simulateNetworkCall()
                 })
             }
-            .navigationTitle("Hiking Day")
+            .navigationTitle("Hiking Trails")
             .padding()
         }
     }
