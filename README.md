@@ -2,7 +2,9 @@
 
 ## Glimmer (Shimmer effect) view loading state
 
-![sample screenshot](/screenshots/render-one.png)
+<p align="center">
+    <img width="350" src="/screenshots/render-one.png" />
+</p>
 
 ## Post Glimmer effect
 
