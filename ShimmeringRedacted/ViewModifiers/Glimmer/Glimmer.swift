@@ -48,7 +48,7 @@ struct Glimmer: ViewModifier {
                     .init(color: edgeColor, location: phase),
                     .init(color: centerColor, location: phase + 0.1),
                     .init(color: edgeColor, location: phase + 0.2)
-                ]), startPoint: .topLeading, endPoint: .bottomTrailing)
+                ]), startPoint: .leading, endPoint: .trailing)
         }
     }
 }
